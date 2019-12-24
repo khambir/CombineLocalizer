@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  Example
+
+  Created by Vladislav Khambir on 9/30/18.
+  Copyright (c) Vlad Khambir
+*/
+
+"testString" = "Funziona e basta";
+"testString2" = "Funziona solo %@%@ volte";

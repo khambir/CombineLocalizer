@@ -1,0 +1,6 @@
+framework module CombineLocalizer {
+  umbrella header "CombineLocalizer-umbrella.h"
+
+  export *
+  module * { export * }
+}

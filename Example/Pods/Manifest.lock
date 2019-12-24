@@ -1,0 +1,16 @@
+PODS:
+  - CombineLocalizer (1.0.0)
+
+DEPENDENCIES:
+  - CombineLocalizer (from `../`)
+
+EXTERNAL SOURCES:
+  CombineLocalizer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineLocalizer: 21cf0627560b27bdb85dc5c4c935099e03bd583c
+
+PODFILE CHECKSUM: 58e322180f7b87195603b4f75d89419fdf55a944
+
+COCOAPODS: 1.8.4
