@@ -1,5 +1,5 @@
 PODS:
-  - CombineLocalizer (1.0.1)
+  - CombineLocalizer (1.0.2)
 
 DEPENDENCIES:
   - CombineLocalizer (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CombineLocalizer: d09fa1633fb25897254670ac219fe96a4f03ce41
+  CombineLocalizer: 871130b6a255450e9f464180a95d065d0982b6a7
 
 PODFILE CHECKSUM: 58e322180f7b87195603b4f75d89419fdf55a944
 
