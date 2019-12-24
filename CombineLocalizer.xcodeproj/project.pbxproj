@@ -326,7 +326,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.vladkhambir.CombineLocalizer;
 				PRODUCT_NAME = CombineLocalizer;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -355,7 +355,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.vladkhambir.CombineLocalizer;
 				PRODUCT_NAME = CombineLocalizer;
 				PROVISIONING_PROFILE_SPECIFIER = "";
