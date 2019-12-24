@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/RxSwiftCommunity/CombineLocalizer.svg?branch=master)](https://travis-ci.org/RxSwiftCommunity/CombineLocalizer)
 [![Swift](https://img.shields.io/badge/swift-5-orange.svg)](https://github.com/RxSwiftCommunity/CombineLocalizer)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RxSwiftCommunity/CombineLocalizer/blob/master/LICENSE)
 
@@ -38,9 +37,9 @@ import CombineLocalizer
 
 ```swift
 Localizer.shared.localized("Start")
-.map { $0 }
-.assign(to: \.text, on: startLabel)
-.store(in: &cancellableBag)
+  .map { $0 }
+  .assign(to: \.text, on: startLabel)
+  .store(in: &cancellableBag)
 ```
 
 ### Synchronously localized strings
