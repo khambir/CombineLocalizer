@@ -13,10 +13,7 @@ let package = Package(
     name: "CombineLocalizer",
     
     platforms: [
-        .iOS(.v10),
-        .tvOS(.v10),
-        .macOS(.v10_12),
-        .watchOS(.v3)
+        .iOS(.v13)
     ],
     products: [
         .library(name: "CombineLocalizer", targets: ["CombineLocalizer"])
